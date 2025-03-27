@@ -71,7 +71,6 @@ The CNN-biLSTM model achieves the highest average accuracy and generalization, e
 You can explore the project deliverables via the [Website folder](./Website):
 
 - 🎥 [Demo Video](Website/video.mp4)  
-- 🌐 [HTML Overview](Website/index.html)
 
 ---
 
