@@ -7,6 +7,11 @@
 !dataset/
 .venv
 
+# Ignore project-specific folders
+Website/
+Tidydata1/
+Tidydata2/
+
 # User-specific files
 *.rsuser
 *.suo
