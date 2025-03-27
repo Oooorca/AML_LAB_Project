@@ -14,7 +14,7 @@ Tidydata1/
 Tidydata2/
 *.pptx
 *.pdf
-
+*.html
 # User-specific files
 *.rsuser
 *.suo
