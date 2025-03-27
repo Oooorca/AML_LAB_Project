@@ -8,9 +8,12 @@
 .venv
 
 # Ignore project-specific folders
-Website/
+Website/Code
+Website/Dataset
 Tidydata1/
 Tidydata2/
+*.pptx
+*.pdf
 
 # User-specific files
 *.rsuser
